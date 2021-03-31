@@ -1,0 +1,254 @@
+:root{
+    --bg : #FAFAFA; 
+    --Font_color : #706F6F
+}
+body{
+    background-color: var(--bg);
+}
+#Heading{
+    text-align: left;
+    font: normal normal normal 28px/25px Helvetica Neue;
+    letter-spacing: 0px;
+    color: var(--Font_color);
+    opacity: 1;
+}
+#cal-icon{
+    width: 24px;
+height: 24px;
+}
+#Date{
+    text-align: left;
+    font: normal normal medium 16px/13px Helvetica Neue;
+    letter-spacing: 0px;
+    color: var(--Font_color);
+    opacity: 1;
+}
+#Disp{
+    text-align: left;
+font: normal normal normal 16px/25px Helvetica Neue;
+letter-spacing: 0px;
+color: #A9ABAC;
+opacity: 1;
+}
+#box{
+border: 1px solid black;
+width: 230px;
+height: 138px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #DDDFE2;
+opacity: 1;
+border-radius: 15px;
+}
+.input{
+    width: 18px;
+height: 18px;
+border: 1px solid #A9ABAC;
+border-radius: 1px;
+opacity: 1;
+}
+#exampleCheck3{
+    width: 18px;
+    height: 18px;
+    border: 1px solid #A9ABAC;
+    border-radius: 1px;
+    opacity: 1;
+    } 
+    #exampleCheck2{
+        width: 18px;
+        height: 18px;
+        border: 1px solid #A9ABAC;
+        border-radius: 1px;
+        opacity: 1;
+        } 
+
+#Seprator{
+
+
+border-radius: 8px;
+opacity: 1;
+
+
+}
+#label{
+    
+font: normal  Helvetica Neue;
+letter-spacing: 0px;
+color: #706F6F;
+opacity: 1;
+}
+#lebl2{
+    text-align: left;
+font: normal normal normal 18px/25px Helvetica Neue;
+letter-spacing: 0px;
+color: #706F6F;
+opacity: 1;
+}
+#labalfordrop{
+    background-color: transparent;
+    position: relative;
+    font: normal normal normal 16px/18px Helvetica Neue;
+letter-spacing: 0px;
+color: #A9ABAC;
+opacity: 1;
+margin-top: -45px;
+margin-left: 30px;
+}
+#bor{
+    height: 1px;
+    width: 60px;
+
+    background-color:var(--bg) ;
+    position: absolute;
+    margin-left: 25px;
+
+}
+#exampleFormControlSelect1{
+    outline: none;
+    text-decoration: none;
+    color: #706F6F;
+opacity: 1;
+}
+#exampleFormControlSelect2{
+    outline: none;
+    text-decoration: none;
+    color: #706F6F;
+opacity: 1;
+}#exampleFormControlSelect3{
+    outline: none;
+    text-decoration: none;
+    color: #706F6F;
+opacity: 1;
+}
+#search-icon{
+    background-color: white;
+    border-left: none;
+    border-radius: 0px 5px 5px 0px;
+}
+#inlineFormInputGroupUsername2{
+    
+    border-right: none;
+    
+}
+#data{
+    background-color: white;
+    height: auto;
+    border: 1px solid #DDDFE2; 
+}
+#btn{
+    width: 157px;
+height: 40px;
+background: #FAFAFA 0% 0% no-repeat padding-box;
+border: 1px solid #AAAAAA;
+border-radius: 6px;
+opacity: 1;
+font: normal normal medium 16px/19px Helvetica Neue;
+letter-spacing: 0px;
+color: #706F6F;
+text-transform: uppercase;
+opacity: 1;
+}
+#btn1{
+    width: 157px;
+height: 40px;
+background: #FD721C1A 0% 0% no-repeat padding-box;
+border: 1px solid #FD721C;
+border-radius: 6px;
+opacity: 1;
+font: normal normal medium 16px/19px Helvetica Neue;
+letter-spacing: 0px;
+color: #706F6F;
+text-transform: uppercase;
+opacity: 1;
+}
+#btn2{
+    width: 157px;
+height: 40px;
+background: #f4faed 0% 0% no-repeat padding-box;
+border: 1px solid #92D150;
+border-radius: 6px;
+opacity: 1;
+font: normal normal medium 16px/19px Helvetica Neue;
+letter-spacing: 0px;
+color: #706F6F;
+text-transform: uppercase;
+opacity: 1;
+}
+#circle1{
+    height: 22px;
+    opacity: 1;
+    
+}
+#circle2{
+    width: 25px;
+height: 27px;
+    opacity: 1;
+    
+}
+#txt1{
+    font: normal normal normal 16px/18px Helvetica Neue;
+letter-spacing: 0px;
+color: #706F6F;
+opacity: 1;
+}
+#card{
+    background-color: #FAFAFA;
+    border: 1px solid #DCE2EB;
+}
+#title{
+    text-align: left;
+font: normal normal medium Helvetica Neue;
+letter-spacing: 0px;
+font-size: 22px;
+color: #706F6F;
+opacity: 1;
+}
+.card-header{
+    background-color: white;
+    width: 100%;
+}
+#accordion{
+    width: 100%;
+}
+#first{
+    font: normal normal medium  Helvetica Neue;
+letter-spacing: 0px;
+color: #54575A;
+opacity: 1
+}
+#li1{
+    text-align: left;
+font: normal normal medium  Helvetica Neue;
+font-size: 15px;
+letter-spacing: 0px;
+color: #706F6F;
+opacity: 1;
+}
+#box1{
+    width: 71px;
+height: 30px;background: #EBEBEB 0% 0% no-repeat padding-box;
+border-radius: 0px 4px  4px 0px ;
+border: 0px;
+opacity: 1;
+color: #54575A;
+}
+#box2{
+    width: 71px;
+height: 30px;background: #92D150 0% 0% no-repeat padding-box;
+border-radius: 0px 4px  4px 0px ;
+border: 0px;
+opacity: 1;
+color: #54575A;
+}
+#fir{
+    border: 0px;
+    text-decoration: none;
+    width: 24px;  
+height: 30px;
+border-radius: 4px 0px 0px 4px; 
+background: #EF5245 0% 0% no-repeat padding-box;
+opacity: 1;
+color: white;
+}
+.card{
+    border-radius: 10px;
+}
