@@ -69,7 +69,7 @@ const Indigo = () => {
 
                             </div>
 
-                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                            <div id="collapseOne" class="collapse " aria-labelledby="headingOne" data-parent="#accordion">
                                 <div class="card-body">
                                     <div className=" mt-1 row">
                                     <div className="col-12 mt-n3 mb-n3">
@@ -226,7 +226,7 @@ const Indigo = () => {
 
                                
                             </div>
-                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                            <div id="collapseThree" class="collapse " aria-labelledby="headingThree" data-parent="#accordion">
                                 <div class="card-body">
                                 <div className=" mt-1 row">
                                     <div className="col-12 mt-n3 mb-n3">
@@ -305,7 +305,7 @@ const Indigo = () => {
 
                                
                             </div>
-                            <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#accordion">
+                            <div id="collapsefour" class="collapse show" aria-labelledby="headingfour" data-parent="#accordion">
                                 <div class="card-body">
                                 <div className=" mt-1 row">
                                     <div className="col-12 mt-n3 mb-n3">

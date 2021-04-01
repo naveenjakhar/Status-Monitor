@@ -23,7 +23,7 @@ const Rainbow = () => {
                         <div class="card">
                             <div class="card-header " id="headingOne">
 
-                                <p id="first" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                <p id="first" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                     Accounting <span className="d-flex justify-content-end mt-n4"><img src={Down} alt="Pin"></img></span>
                                 </p>
                                 <div className="row">
@@ -69,7 +69,7 @@ const Rainbow = () => {
 
                             </div>
 
-                            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                            <div id="collapse4" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                                 <div class="card-body">
                                     <div className=" mt-1 row">
                                     <div className="col-12 mt-n3 mb-n3">
@@ -102,7 +102,7 @@ const Rainbow = () => {
                             <div class="card-header" id="headingTwo">
                                 
                              
-        <p id="first" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <p id="first" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
         Financial Reporting <span className="d-flex justify-content-end mt-n4"><img src={Down} alt="Pin"></img></span>
                                 </p>
                                 <div className="row">
@@ -147,7 +147,7 @@ const Rainbow = () => {
                                 </div>
 
                             </div>
-                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                            <div id="collapse5" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                 <div class="card-body">
                                 <div className=" mt-1 row">
                                     <div className="col-12 mt-n3 mb-n3">
@@ -180,7 +180,7 @@ const Rainbow = () => {
                             <div class="card-header" id="headingThree">
                               
                       
-        <p id="first" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+        <p id="first" data-toggle="collapse" data-target="#collapse6" aria-expanded="true" aria-controls="collapse6">
         Reconciliation <span className="d-flex justify-content-end mt-n4"><img src={Down} alt="Pin"></img></span>
                                 </p>
                                 <div className="row">
@@ -226,7 +226,7 @@ const Rainbow = () => {
 
                                
                             </div>
-                            <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordion">
+                            <div id="collapse6" class="collapse show" aria-labelledby="headingThree" data-parent="#accordion">
                                 <div class="card-body">
                                 <div className=" mt-1 row">
                                     <div className="col-12 mt-n3 mb-n3">
@@ -259,7 +259,7 @@ const Rainbow = () => {
                             <div class="card-header" id="headingThree">
                               
                       
-        <p id="first" data-toggle="collapse" data-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+        <p id="first" data-toggle="collapse" data-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
         Middle Office <span className="d-flex justify-content-end mt-n4"><img src={Down} alt="Pin"></img></span>
                                 </p>
                                 <div className="row">
@@ -305,7 +305,7 @@ const Rainbow = () => {
 
                                
                             </div>
-                            <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#accordion">
+                            <div id="collapse11" class="collapse" aria-labelledby="headingfour" data-parent="#accordion">
                                 <div class="card-body">
                                 <div className=" mt-1 row">
                                     <div className="col-12 mt-n3 mb-n3">

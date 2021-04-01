@@ -27,7 +27,7 @@ const Header = () => {
         <>
     
             <div className="row mt-4">
-                <div className="col-12 col-md-5 mt-auto">
+                <div className="col-12 col-md-4 mt-auto">
                     <p ><span id="Heading">Status Moniter</span>
                         <span id="cal-icon"><img className="ml-3 mr-3 mb-2" src={Cal} width="18px" height="18px" alt="calander"></img></span>
                         <span className="mb-1" id="Date">22 Mar 2020</span>

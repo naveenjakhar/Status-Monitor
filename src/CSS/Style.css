@@ -193,6 +193,13 @@ opacity: 1;
 #card{
     background-color: #FAFAFA;
     border: 1px solid #DCE2EB;
+    border-radius: 10px;
+}
+#card123{
+    background-color: white;
+    border: 1px solid #DCE2EB;
+    border-style: dashed;
+    border-radius: 10px;
 }
 #title{
     text-align: left;
@@ -218,13 +225,13 @@ opacity: 1
 #li1{
     text-align: left;
 font: normal normal medium  Helvetica Neue;
-font-size: 15px;
+font-size: 2vh;
 letter-spacing: 0px;
 color: #706F6F;
 opacity: 1;
 }
 #box1{
-    width: 71px;
+    width: 7vh;
 height: 30px;background: #EBEBEB 0% 0% no-repeat padding-box;
 border-radius: 0px 4px  4px 0px ;
 border: 0px;
@@ -232,7 +239,7 @@ opacity: 1;
 color: #54575A;
 }
 #box2{
-    width: 71px;
+    width: 7vh;
 height: 30px;background: #92D150 0% 0% no-repeat padding-box;
 border-radius: 0px 4px  4px 0px ;
 border: 0px;
@@ -242,7 +249,7 @@ color: #54575A;
 #fir{
     border: 0px;
     text-decoration: none;
-    width: 24px;  
+    width: 4vh;  
 height: 30px;
 border-radius: 4px 0px 0px 4px; 
 background: #EF5245 0% 0% no-repeat padding-box;

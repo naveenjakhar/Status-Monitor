@@ -1,4 +1,5 @@
 import React from 'react'
+import Blank from './Blank';
 import Client from './Client';
 
 import Indigo from './Indigo'
@@ -6,18 +7,18 @@ import Rainbow from './Rainbow'
 
 const Controller = (props) => {
     if(props.data === "showall")
-    { console.log(props.data);
+    { 
         return(<>
         <Indigo />
         <Rainbow />
         <Client />
-                    
+        <Blank />            
                    </>
             
         )
     }
     else if(props.data === "indigo")
-    { console.log(props.data);
+    { 
         return(<>
         <Indigo />
        
@@ -27,7 +28,7 @@ const Controller = (props) => {
         )
     }
     else if(props.data === "rainbow")
-    { console.log(props.data);
+    { 
         return(<>
         <Rainbow />
        
@@ -52,6 +53,8 @@ const Controller = (props) => {
             <Indigo />
         <Rainbow />
         <Client />
+        <Blank />            
+
             </>
         }
     
